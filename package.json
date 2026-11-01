@@ -1,0 +1,10 @@
+{
+  "name": "pride-website-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix pride-automation run dev",
+    "build": "npm --prefix pride-automation run build",
+    "preview": "npm --prefix pride-automation run preview"
+  }
+}
